@@ -1,8 +1,8 @@
 # WIP - Obsidian template 
 ## todo 
-- [] finish readme 
-- [] add config 
-- [] add examples 
+- [ ] finish readme 
+- [ ] add config 
+- [ ] add examples 
 
 
 ## General purpose 
