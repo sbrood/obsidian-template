@@ -1,4 +1,9 @@
 # WIP - Obsidian template 
+## todo 
+- [] finish readme 
+- [] add config 
+- [] add examples 
+
 
 ## General purpose 
 Obsidian can be just a very simple note taking software. But it can also be used as a "second brain", a trendy way to say that your notes are so well organized that you can rely on them not to remember everything, or to keep everything in your head at all times. 
